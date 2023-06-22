@@ -1,3 +1,39 @@
-# Professional README Generator Starter Code
+# Homework Week 9 README Generator
+  ## Badges
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+  ## Table of Contents
+  * [License](#license)
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [How to Contribute](#how-to-contribute)
+  * [Tests](#tests)
+  * [Questions?](#questions)
+
+  ## License
+  Learn more about MIT here:
+  [MIT](https://opensource.org/licenses/MIT)
+
+  ## Description
+  This application is for the UCF Coding Bootcamp. It generates a professional README file based on user input.  
+  [Link to Example Video]()  
+  [Challenge Week 9 README Generator Site]()  
+  [Challenge Week 9 README Generator Repository]()  
+
+  ## Installation
+  Clone the repository. 
+
+  ## Usage
+  To use, open the index in node and follow the prompts. 
+
+  ## How to Contribute
+  [Contributor Covenant](https://www.contributor-covenant.org/)  
+
+  ## Tests
+  Just use the application.
+
+  ## Questions?
+  ### Reach me here: 
+  [usflfelipe](https://github.com/usflfelipe)  
+  felipe@gmail.com
