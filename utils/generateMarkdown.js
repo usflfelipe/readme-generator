@@ -209,7 +209,7 @@ function generateMarkdown(data) {
   * [Description](#description)
   * [Installation](#installation)
   * [Usage](#usage)
-  * [How to Contribute](#how-to-contribute)
+  * [Contributing](#how-to-contribute)
   * [Tests](#tests)
   * [Questions?](#questions)
 
@@ -226,7 +226,7 @@ function generateMarkdown(data) {
   ## Usage
   ${data.usage}
 
-  ## How to Contribute
+  ## Contributing
   [Contributor Covenant](https://www.contributor-covenant.org/)  
   ${data.contributing}
 
