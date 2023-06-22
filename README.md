@@ -17,7 +17,7 @@
 
   ## Description
   This application is for the UCF Coding Bootcamp. It generates a professional README file based on user input.  
-  [Link to Example Video](https://drive.google.com/file/d/1oof5REcSu1NsYGIKeT6USMPbYdwAMLVz/view?usp=sharing)  
+  [Link to Example Video](https://drive.googitgle.com/file/d/1oof5REcSu1NsYGIKeT6USMPbYdwAMLVz/view?usp=sharing)  
   [Challenge Week 9 README Generator Site](https://usflfelipe.github.io/readme-generator)  
   [Challenge Week 9 README Generator Repository](https://github.com/usflfelipe/readme-generator)  
 
