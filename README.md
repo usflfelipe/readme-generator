@@ -1,4 +1,4 @@
-# Homework Week 9 README Generator
+# Challenge Week 9 README Generator
   ## Badges
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -7,7 +7,7 @@
   * [Description](#description)
   * [Installation](#installation)
   * [Usage](#usage)
-  * [How to Contribute](#how-to-contribute)
+  * [Contributing](#how-to-contribute)
   * [Tests](#tests)
   * [Questions?](#questions)
 
@@ -19,7 +19,7 @@
   This application is for the UCF Coding Bootcamp. It generates a professional README file based on user input.  
   [Link to Example Video]()  
   [Challenge Week 9 README Generator Site]()  
-  [Challenge Week 9 README Generator Repository]()  
+  [Challenge Week 9 README Generator Repository](https://github.com/usflfelipe/readme-generator)  
 
   ## Installation
   Clone the repository. 
@@ -36,4 +36,4 @@
   ## Questions?
   ### Reach me here: 
   [usflfelipe](https://github.com/usflfelipe)  
-  felipe@gmail.com
+  felipeu7@gmail.com
